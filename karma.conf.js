@@ -45,12 +45,6 @@ module.exports = function(config) {
       'test/spec/controllers/main.js'
     ],
 
-/*
-
-
-
-*/
-
 
     // list of files to exclude
     exclude: [
